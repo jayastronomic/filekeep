@@ -60,9 +60,11 @@ You can interact with the FileKeep client directly in your browser:
 
 👉 **[Try FileKeep Live](https://filekeep-web-app.onrender.com)**
 
-> ⚠️ The sync feature is only available in development environments and is not supported in the live demo.  
-> 💤 **Note**: The live demo may take a few moments to load if it hasn't been used recently. This is due to cold starts or sleep cycles enforced by the hosting platform during low traffic periods.
-
+> ⚠️ **Important:**  
+> - The sync feature is only available in development environments.
+> - You can only upload 10 files per account. Files types can only be text or image.
+> - This live demo is **for development and learning purposes only** — **do not upload any sensitive, private, or important files**. It is not a production-ready storage solution.  
+> - 💤 The demo may take a few moments to load if it hasn't been accessed recently due to cold starts on the host.
 ---
 
 
